@@ -1,5 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
+## these functions fulfill the requirements for programming assignment 2. 
+## They use lexical scoping in order to find the inverse of large matrices.
 
 ## Write a short comment describing this function
 ## Creates the matrix and get/set functions that will feed into cacheSolve
